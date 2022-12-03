@@ -1,7 +1,8 @@
 public class testVector {
     public static void main(String[] args) {
         myVector mas = new myVector(1);
-        /*Complex numd1 = new Complex(1,1);
+        /*myVector<Complex> mas = new myVector(1);
+        Complex numd1 = new Complex(1,1);
         Complex numd2 = new Complex(-1,1);
         Complex numd3 = new Complex(1,-1);
         Complex numd4 = new Complex(-1,-1);
